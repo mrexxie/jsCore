@@ -1,0 +1,27 @@
+{
+  "name": "js-core",
+  "version": "1.0.0",
+  "description": "Document for JS Core",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrexxie/jsCore.git"
+  },
+  "keywords": [
+    "js",
+    "core",
+    "js-core"
+  ],
+  "author": "Rex Xie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrexxie/jsCore/issues"
+  },
+  "homepage": "https://github.com/mrexxie/jsCore#readme",
+  "dependencies": {
+    "docsify-cli": "^4.1.12"
+  }
+}
